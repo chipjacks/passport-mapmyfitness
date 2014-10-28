@@ -12,7 +12,7 @@
   ],
   "author": {
     "name": "Chip Jackson",
-    "email": "chipjacks@gmail.com"
+    "email": "chipjacks@gmail.com",
     "url": "http://www.chipjacks.com/"
   },
   "repository": {
@@ -34,5 +34,5 @@
   },
   "engines": {
     "node": ">= 0.4.0"
-  },
+  }
 }
