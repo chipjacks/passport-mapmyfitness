@@ -1,0 +1,38 @@
+{
+  "name": "passport-mapmyfitness",
+  "version": "0.1.7",
+  "description": "MapMyFitness authentication strategy for Passport.",
+  "keywords": [
+    "passport",
+    "mapmyfitness",
+    "auth",
+    "authn",
+    "authentication",
+    "identity"
+  ],
+  "author": {
+    "name": "Chip Jackson",
+    "email": "chipjacks@gmail.com"
+    "url": "http://www.chipjacks.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/chipjacks/passport-mapmyrun.git"
+  },
+  "bugs": {
+    "url": "http://github.com/chipjacks/passport-mapmyrun/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "main": "./lib",
+  "dependencies": {
+    "passport-oauth2": "1.x.x"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+}
